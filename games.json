@@ -1,0 +1,70 @@
+{
+    "Millionaire Empire Tycoon": {
+        "Status": true,
+        "GameId": 6677985923,
+        "Script": "https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Millionaire%20Empire%20Tycoon.lua",
+        "GameName": "[🔥X2 CASH] Millionaire Empire Tycoon"
+    },
+    "Space Simulator 2": {
+        "Status": true,
+        "GameId": 6760094212,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Space%20Simulator%202.lua",
+        "GameName": "[🍀10X LUCK🍀]🌠Space Simulator 2🌠"
+    },
+    "Clicker Simulator": {
+        "Status": true,
+        "GameId": 7560156054,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Clicker%20Simulator.lua",
+        "GameName": "[NEW] ⚡Clicker Simulator!"
+    },
+    "Sonic Speed Simulator": {
+        "Status": true,
+        "GameId": 9049840490,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Sonic%20Speed%20Simulator.lua",
+        "GameName": "Sonic Spoeed Simulator"
+    },
+    "Rebirth Champions X": {
+        "Status": true,
+        "GameId": 8540346411,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Rebirth%20Champions%20X.lua",
+        "GameName": "[🔥HELL!] Rebirth Champions X"
+    },
+    "Toy Clicking Simulator": {
+        "Status": true,
+        "GameId": 4846954296,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Toy%20Clicking%20Simulator.lua",
+        "GameName": "🍀 ST PATRICK'S 🍀 Toy Clicking Simulator!"
+    },
+    "Crappy Clicking Simulator": {
+        "Status": true,
+        "GameId": 6251374118,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Crappy%20Clicking%20Simulator.lua",
+        "GameName": "[🖱️X10 CLICKS🖱️] Clicking Simulator"
+    },
+    "Soda Simulator X": {
+        "Status": true,
+        "GameId": 7076693699,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Soda%20Simulator%20X.lua",
+        "GameName": "[🤑FREE PET🤑] Soda Simulator X"
+    },
+    "Color by number": {
+        "Status": true,
+        "GameId": 8137333410,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Color%20by%20number.lua",
+        "GameName": "Color by number"
+    },
+    "Ninja Tycoon": {
+        "Status": true,
+        "GameId": 221718525,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Ninja%20Tycoon.lua",
+        "GameName": "Ninja Tycoon (v4.1)"
+    },
+    "Clicker Story": {
+        "Status": true,
+        "GameId": 4859936288,
+        "Script":"https://gitlab.com/Ner0ox/versus/-/raw/main/Games/Clicker%20Story.lua",
+        "GameName": "Clicker Story (x20K Clicks)"
+    }
+
+
+}
