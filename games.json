@@ -24,6 +24,12 @@
         "Script":"https://raw.githubusercontent.com/Kaizenofficiall/KaiZen/main/afszen1.txt",
         "GameName": "[UPD 28 + x3 🍀⌛🔎🌟] Anime Fighters Simulator"
      },
+    "Arsenal": {
+        "Status": true,
+        "GameId": 286090429,
+        "Script":"https://raw.githubusercontent.com/Kaizenofficiall/KaiZen/main/Arsenal%20by%20kaizen",
+        "GameName": "Arsenal"
+     },
     "Color by number": {
         "Status": true,
         "GameId": 8137333410,
