@@ -16,7 +16,14 @@
         "GameId": 8540346411,
         "Script":"https://raw.githubusercontent.com/Kaizenofficiall/KaiZen/main/rebirth%20champion%20x.txt",
         "GameName": "[🔥HELL!] Rebirth Champions X"
-    },
+
+     },
+    "Anime Fighters Simulator": {
+        "Status": true,
+        "GameId": 6299805723,
+        "Script":"https://raw.githubusercontent.com/Kaizenofficiall/KaiZen/main/afszen1.txt",
+        "GameName": "[UPD 28 + x3 🍀⌛🔎🌟] Anime Fighters Simulator"
+     },
     "Color by number": {
         "Status": true,
         "GameId": 8137333410,
